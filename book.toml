@@ -1,0 +1,6 @@
+[book]
+authors = ["colddrizzle"]
+language = "en"
+multilingual = false
+src = "src"
+title = "my rust note"
